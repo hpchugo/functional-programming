@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hash-code" />
+        <module name="binary-operator" />
+        <module name="or" />
+        <module name="imperartive-declarative" />
+        <module name="optional" />
+        <module name="if-present-or-else" />
+        <module name="filter" />
+        <module name="predicate" />
+        <module name="lambda" />
+        <module name="if-present" />
+        <module name="stream" />
+        <module name="function" />
+        <module name="equals" />
+        <module name="unary-operator" />
+        <module name="bi-function" />
+        <module name="map" />
+        <module name="functional-interface" />
+        <module name="consumer" />
+        <module name="flat-map" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
